@@ -1,0 +1,7 @@
+#Sat Mar 25 09:51:08 ICT 2017
+base.0=D\:\\AndroidStudioProjects\\ChattDemoMain\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b2381493481469e4fd50f2a9ac2f6cc5d7e7da27
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudioProjects\\ChattDemoMain\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cdacd179ee1cc05fef080a7848f2a2c49b9294bc\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\ChattDemoMain\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cdacd179ee1cc05fef080a7848f2a2c49b9294bc
+file.0=D\:\\AndroidStudioProjects\\ChattDemoMain\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b2381493481469e4fd50f2a9ac2f6cc5d7e7da27\\classes.dex
